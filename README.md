@@ -1,4 +1,4 @@
-# yp
+this is simple company managment built using vue and vuetify and the backend is a loopback api which is located at https://github.com/BekyH/companymanagmentbackend
 
 ## Project setup
 ```
