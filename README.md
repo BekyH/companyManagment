@@ -1,4 +1,4 @@
-this is simple company managment built using vue and vuetify and the backend is a loopback api which is located at https://github.com/BekyH/companymanagmentbackend
+this is the user part of simple company managment built using vue and vuetify and the admin part is located at https://github.com/BekyH/admincompnaymanagment  the backend is a loopback api which is located at https://github.com/BekyH/companymanagmentbackend
 
 ## Project setup
 ```
